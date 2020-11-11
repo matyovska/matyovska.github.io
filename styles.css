@@ -1,0 +1,42 @@
+body {
+    background-image: url("assets/hatterkep.png");
+    /*background-repeat: repeat;*/
+    
+}
+.oldal {font-family: 'Saira', courier;
+        font-size: 20px;
+        line-height: 18px;
+}
+.tartalom {
+    text-align: left; 
+    margin: 20px;
+    padding: 10%
+}
+.nav-link {
+    color: #ff0099;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#hr {
+    border: 1px dashed grey;
+    align-items: center;
+    width: 5%;    
+}
+#name {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
+#techwiki {
+    font-weight: bold;
+    text-align: left;
+}
+h4 {
+    color: #ff0099;
+    text-align: left;
+}
+
+img {
+    margin-left: 92px;
+}
